@@ -1,0 +1,11 @@
+feature,mean_abs_shap
+FreqRecencyScore,0.0199
+DemMedHomeValue,0.0181
+CardResponseRate,0.0146
+DonationRate,0.0119
+GiftTimeLast,0.0112
+GiftAvgLast,0.0096
+GiftAvgCard36,0.0076
+GiftCnt36,0.0070
+GiftAvgAll,0.0067
+GiftTrend,0.0060
